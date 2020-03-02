@@ -1,5 +1,7 @@
 # Final-Project
 
+## Horse Racing: An analysis to predict 2020 outcomes
+
 Use Scikit-learn, Python Pandas, Google Cloud SQL to create an analysis of existing horse racing data to make a classification model using logistic regression.
 
 Research shows "All independent variables (age, breed, sex, gait, track surface and total number of starts) had a significant impact on total earnings.”(1)
