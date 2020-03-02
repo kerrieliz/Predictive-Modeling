@@ -20,11 +20,9 @@ Research shows "All independent variables (age, breed, sex, gait, track surface 
 - 27,000 rows of horse racing data  
 - horse weight, jockey, finish place
 - Finish place -> boolean winner column: place = 1 (true), place = >=2 (false)
-
-
-### Viz 
+- Viz 
 <a href="https://datastudio.google.com/u/0/explorer/7454d1e9-8bd8-4e29-a638-e4e725399b48">Data Studio Viz</a>
-- Big Query, SQL 
+-- Big Query, SQL 
 
 
 #### Data Sources
