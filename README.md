@@ -25,8 +25,8 @@ Research shows "All independent variables (age, breed, sex, gait, track surface 
 
 
 #### Data Sources
-Horse Racing Datasets: http://horseracingdatasets.com/kentucky-derby/
-Data.World: https://data.world/sya/horses-for-courses/workspace/query?filename=runners.csv%2Frunners.csv&newQueryType=SQL&selectedTable=runners&tempId=1583168958109
+- Horse Racing Datasets: http://horseracingdatasets.com/kentucky-derby/
+- Data.World: https://data.world/sya/horses-for-courses/workspace/query?filename=runners.csv%2Frunners.csv&newQueryType=SQL&selectedTable=runners&tempId=1583168958109
 
 #### Other Sources
 1. Relationships between race earnings and horse age, sex, gait, track surface and number of race starts for Thoroughbred and Standardbred racehorses in North America: https://beva.onlinelibrary.wiley.com/doi/abs/10.1111/j.2042-3306.2010.00032.x
