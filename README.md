@@ -3,7 +3,7 @@
 ## Horse Racing: An analysis to predict 2020 outcomes
 Use Scikit-learn, Python Pandas, Google Cloud SQL to analyze existing horse racing data to create a classification model that will predict future outcomes. 
 
-###Background
+### Background
 - The sport of horse racing is worth around $100 billion dollars
 - $103 is the largest payout for 1st place in horse races 
 - Many interested parties investing in ML models 
@@ -45,7 +45,7 @@ Findings
 - Predict_Proba: Predicting the highest probability of horse to win 
 - Pickeled Model 
 
-####Conclusion: 
+#### Conclusion: 
 - Obstacles: One-off situations- like how to use data from Horses that won or placed, but were later disqualified (like what happened in last Kentucky Derby). Data and definitions of data provided in datasets.
 - If I had more time: Look at more statistics like odds ("final odds" before the race, “morning odds”) as well as the owner, trainer, track, time, distance, and track surface conditions. 
 - This model does not have predictive value, but there is huge potential to create one, keeping in mind that horse racing is pretty random
