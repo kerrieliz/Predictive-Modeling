@@ -42,7 +42,7 @@ Findings
 - Random Forest: Starters, Dosage Index, Finish Position (Place_Bins)
 - Dosage index: mathematical figure used to quantify a horse’s ability to handle various distances based on the appearance of influential sires in the bloodline. Calculated based on an analysis of the horse's pedigree.
 - Linear & Logistic Regression 
-- Predict_Proba
+- Predict_Proba: Predicting the highest probability of horse to win 
 - Pickeled Model 
 
 ####Conclusion: 
