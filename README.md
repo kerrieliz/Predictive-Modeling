@@ -1,7 +1,6 @@
-# Final-Project
+# Horse Racing: An analysis to predict 2020 outcomes
 
-## Horse Racing: An analysis to predict 2020 outcomes
-Use Scikit-learn, Python Pandas, Google Cloud SQL to analyze existing horse racing data to create a classification model that will predict future outcomes. 
+## Using Scikit-learn, Python Pandas, and Google Cloud SQL to analyze existing horse racing data to create a classification model that will predict future outcomes. 
 
 ### Background
 - The sport of horse racing is worth around $100 billion dollars
