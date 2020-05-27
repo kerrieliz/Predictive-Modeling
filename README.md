@@ -45,7 +45,7 @@ Findings
 - Pickeled Model 
 
 #### Conclusion: 
-- Obstacles: One-off situations- like how to use data from Horses that won or placed, but were later disqualified (like what happened in last Kentucky Derby). Data and definitions of data provided in datasets.
+- Obstacles: One-off situations like how to use data from Horses that won or placed, but were later disqualified (like what happened in last Kentucky Derby). Data and definitions of data provided in datasets.
 - If I had more time: Look at more statistics like odds ("final odds" before the race, “morning odds”) as well as the owner, trainer, track, time, distance, and track surface conditions. 
 - This model does not have predictive value, but there is huge potential to create one, keeping in mind that horse racing is pretty random
 
